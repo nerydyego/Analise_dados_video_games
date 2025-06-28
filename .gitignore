@@ -1,0 +1,16 @@
+# Ignore os arquivos de sistema do Mac
+.DS_store
+
+# Ignore a pasta node_modules
+hipoteses
+
+# Ignore todos os arquivos de texto
+
+# Ignore todos os arquivos de pdf
+
+
+# Ignore arquivos relacionados às chaves de API
+.env
+
+# Ignore arquivos de configuração de SASS
+.sass-cache
